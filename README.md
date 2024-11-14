@@ -1,6 +1,5 @@
-Project 1
+Project 1:COVID-19 Data Analysis Project
 
-COVID-19 Data Analysis Project
 This project contains SQL queries for analyzing COVID-19 case, death, and vaccination data from the PortfolioProject database. The analysis focuses on infection rates, mortality rates, and vaccination coverage across various locations and continents.
 
 Database Structure
