@@ -5,7 +5,7 @@ This project contains SQL queries for analyzing COVID-19 case, death, and vaccin
 Database Structure
 Data is drawn from two tables:
 
-CovidDeaths - Records COVID-19 cases, deaths, and population data
+CovidDeaths - Records COVID-19 cases, deaths, and population data.
 CovidVaccinations - Records COVID-19 vaccination data.
 
 Analysis Overview
